@@ -1,2 +1,3 @@
-# www.earch.dev
+# earch.dev
+
 EArch public website
